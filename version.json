@@ -1,4 +1,4 @@
 {
-  "version": "v1.1",
-  "notes": "Doi giao dien sang tong xanh mint pastel (giu che do sang/toi). Nap san du 13 bai hoc C1-C13 theo lo trinh 20 tuan."
+  "version": "v1.2",
+  "notes": "Sua loi khong cai dat duoc app tren dien thoai: them file manifest, icon va service worker rieng."
 }
